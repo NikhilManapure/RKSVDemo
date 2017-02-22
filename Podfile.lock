@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.3.0)
+  - BEMSimpleLineGraph (4.1)
+  - Socket.IO-Client-Swift (8.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - BEMSimpleLineGraph
+  - Socket.IO-Client-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  BEMSimpleLineGraph: 44fd451f27f8e9cf96f2da5bea27603093576dd1
+  Socket.IO-Client-Swift: 900cf511777045c80d1ce1f11f71261e87765dd1
+
+PODFILE CHECKSUM: d4f5ca68753aaef136adcf029f6dc9ff33a0a8ff
+
+COCOAPODS: 1.2.0

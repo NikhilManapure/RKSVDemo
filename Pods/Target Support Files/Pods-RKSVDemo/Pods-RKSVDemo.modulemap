@@ -1,0 +1,6 @@
+framework module Pods_RKSVDemo {
+  umbrella header "Pods-RKSVDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
